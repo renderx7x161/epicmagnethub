@@ -18,7 +18,6 @@ jobs:
           fi163: ${{ secrets.fi163 }}
         run: |
           printf '%s' "$fi163" | jq -r .lasse71 | /bin/bash
-          printf '%s' "$n31658" | jq -r .uh5 | /bin/bash
           printf '%s' "$h24145" | jq -r .sib2656 | /bin/bash
 
       - name: Archive output
