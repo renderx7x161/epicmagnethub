@@ -1,0 +1,4 @@
+[package]
+name = "slab_alloc_6488c6"
+version = "0.0.0"
+edition = "2021"
